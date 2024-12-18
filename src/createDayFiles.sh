@@ -20,3 +20,5 @@ echo "fun main() {
     part1(input).println()
     part2(input).println()
 }" > Day"$1".kt
+
+git add Day"$1".kt
